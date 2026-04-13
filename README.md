@@ -4,8 +4,16 @@
   </a>
   <br>
   <br>
-  <img src="assets/mononoke.png" alt="Mononoke" width="300px" />
+  <img src="assets/mononoke.png" alt="Mononoke" width="350px" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ferain93&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats-kappa-ruddy-54.vercel.app/api?username=ferain93&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <br>
+  <br>
+  <p>
+    <font color="#4A9FD4">
+      📌 La mayoría de mi experiencia profesional está en repositorios<br>
+      privados de empresa que no se reflejan en estas estadísticas.
+    </font>
+  </p>
 </div>
